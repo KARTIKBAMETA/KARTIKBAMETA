@@ -11,7 +11,7 @@
 <a href="https://instagram.com/kartik.bameta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik.bameta_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kartikbameta09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikbameta09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kartik0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartik0907" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/cb4c1d0b-f9a2-480f-968e-67952ccf5972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartik0907" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/cb4c1d0b-f9a2-480f-968e-67952ccf5972" target="blank"><img align="center" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="kartik0907" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
