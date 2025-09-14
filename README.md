@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KARTIKBAMETA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Automation Tester from India</h3>
 <img src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1700460183.1712793600&semt=ais)"></img>
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently working on Selenium Automation framework.
 
 - 📫 How to reach me **kartikbameta09@gmail.com**
 
